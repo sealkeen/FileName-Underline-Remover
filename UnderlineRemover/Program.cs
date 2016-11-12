@@ -155,7 +155,6 @@ namespace UnderlineRemover
 
 #endregion
 
-
         public override string ToString()
         {
             return $"Directories renamed Total = {totalDirectoriesRenamed}\nFiles renamed Total = {totalFilesRenamed}";
