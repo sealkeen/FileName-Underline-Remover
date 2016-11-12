@@ -36,7 +36,6 @@ namespace UnderlineRemover
         int totalFilesRenamed = 0;
         int totalDirectoriesRenamed = 0;
 
-
         private void HandleDirectoryRecursive(DirectoryInfo currentDir)
         {
             
